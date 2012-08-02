@@ -11,9 +11,9 @@ public class MainActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        
+
         TextView textView1 = (TextView) findViewById(R.id.textView1);
-        textView1.setText("こんにちはメインアクティビティ");
+        textView1.setText("譌･譛ｬ隱樊枚蟄怜喧縺台ｿｮ豁｣");
     }
 
     @Override
